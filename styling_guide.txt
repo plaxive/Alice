@@ -1,0 +1,49 @@
+
+
+/* Font types */
+
+Heading/Logo Font: Playfair Display
+Body Text Font: Open Sans
+
+
+
+/* Google fonts */
+     /*Playfair Display */
+     
+     font-family: 'Playfair Display', serif;
+     
+     <style>
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+</style>
+
+
+
+/* open sans */
+  font-family: 'Open Sans', sans-serif;
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+</style>
+
+
+/* Text sizes */
+
+Heading Sizes:
+
+H1 (Main Heading/Logo): 36-48 pixels
+H2 (Section Headings): 24-32 pixels
+H3 (Subheadings): 18-24 pixels
+H4-H6 (Sub-subheadings): Gradually decrease in size, maintaining a clear hierarchy.
+Paragraph Text:
+
+Regular body text: 16 pixels
+For smaller text (e.g., fine print or captions): 14 pixels
+
+
+/* font weight */
+
+Paragraph: 400;
+
+Section Headings: 600;
+
+Logo: 700;
+
