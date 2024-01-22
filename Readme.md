@@ -7,7 +7,7 @@
 
   Alice is a responsive resturant website , <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://plaxive.github.io/Alice"><strong>➥ Live Demo</strong></a>
+  <a href="https://plaxive.github.io/Alice/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![Alice Resturant](./readme-img/preview.png "Preview Demo")
+![Alice Resturant](../readme-img/preview.png "Preview Demo")
 
 
 ### License
